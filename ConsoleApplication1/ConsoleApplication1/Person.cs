@@ -8,7 +8,8 @@ namespace ConsoleApplication1
 {
     class Person
     {
-        public string name { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
         public string Address { get; set; }
     }
 }
