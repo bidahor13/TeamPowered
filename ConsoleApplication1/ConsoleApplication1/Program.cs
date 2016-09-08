@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-//My project : Babatunde
+//My project 
 class Program
 {
     static void Main()
